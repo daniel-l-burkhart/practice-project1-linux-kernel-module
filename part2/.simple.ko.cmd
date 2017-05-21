@@ -1,0 +1,1 @@
+cmd_/media/sf_share/part2/simple.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /media/sf_share/part2/simple.ko /media/sf_share/part2/simple.o /media/sf_share/part2/simple.mod.o

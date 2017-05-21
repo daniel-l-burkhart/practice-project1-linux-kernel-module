@@ -1,0 +1,1 @@
+cmd_/media/sf_share/practiceProject1/part3/simple-solution.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /media/sf_share/practiceProject1/part3/simple-solution.ko /media/sf_share/practiceProject1/part3/simple-solution.o /media/sf_share/practiceProject1/part3/simple-solution.mod.o
